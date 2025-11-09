@@ -57,4 +57,4 @@ streamlit run app.py
 
 ## Author
 
-Your Name - [Dharani Mandla](https://github.com/dharani211)
+[Dharani Mandla](https://github.com/dharani211)
