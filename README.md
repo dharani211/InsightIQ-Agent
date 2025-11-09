@@ -1,4 +1,5 @@
-#InsightIQ Agent
+## InsightIQ Agent
+
 
 AI-powered data analysis tool with natural language querying and machine learning capabilities.
 
@@ -54,6 +55,6 @@ streamlit run app.py
 - **Data**: Pandas, NumPy
 - **Viz**: Matplotlib, Seaborn
 
-##Author
+## Author
 
 Your Name - [Dharani Mandla](https://github.com/dharani211)
