@@ -17,18 +17,18 @@ AI-powered data analysis tool with natural language querying and machine learnin
 ### Local Installation
 
 1. Clone the repository:
-git clone https://github.com/dharani211/InsightIQ-Agent.git
-cd data-analysis-agent
+- git clone https://github.com/dharani211/InsightIQ-Agent.git
+- cd data-analysis-agent
 
 2. Create virtual environment:
-python -m venv .venv
-source .venv/bin/activate # On Windows: .venv\Scripts\activate
+- python -m venv .venv
+- source .venv/bin/activate (# On Windows: .venv\Scripts\activate)
 
 3. Install dependencies:
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 4. Run the app:
-streamlit run app.py
+- streamlit run app.py
 
 ## Machine Learning Models
 
